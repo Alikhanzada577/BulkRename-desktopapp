@@ -1,2 +1,2 @@
 # BulkRename-desktopapp
-Bulk rename desktop app using nodeJS 
+Source code of Bulk rename desktop app using nodeJS 
